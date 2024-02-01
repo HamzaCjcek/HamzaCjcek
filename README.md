@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Cicek</h1>
-<h3 align="center">Computer Programmer</h3>
+<h3 align="center">Computer Enginner & Computer Programmer</h3>
 
 
 - 🌱 I’m currently learning **Java,Selenium,ASP.NET MVC and MsSql**
