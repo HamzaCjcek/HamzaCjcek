@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Cicek</h1>
 <h3 align="center">Computer Engineer & Computer Programmer</h3>
 
-- 🌱 I’m currently learning **Java, Selenium, ASP.NET MVC, and MS SQL**
+- 🌱 I’m currently learning **Java, Selenium, Spring Boot, and MS SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamzaCjcek](https://github.com/HamzaCjcek)
 
