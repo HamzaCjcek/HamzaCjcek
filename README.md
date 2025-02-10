@@ -6,14 +6,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamzaCjcek](https://github.com/HamzaCjcek)
 
-- 💬 Ask me about **Html,Css,Java,C# and Asp.Net MVC ...**
+- 💬 Ask me about **Html,Css,Java,Selenium,Cucumber,Appium and Spring Boot ...**
 
 - 📫 How to reach me **hamzacicek.tr@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/lhamzacicekl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lhamzacicekl" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzacieck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzacieck" height="30" width="40" /></a>
+<a href="https://instagram.com/hamza7cicek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza7cicek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
